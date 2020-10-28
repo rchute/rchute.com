@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.rchute.com/resume/index.html</loc>
+    <loc>http://www.rchute.com/2020/10/25/hello-world/</loc>
     
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.rchute.com/2020/10/25/hello-world/</loc>
+    <loc>http://www.rchute.com/resume/index.html</loc>
     
     <lastmod>2020-10-26</lastmod>
     
@@ -25,7 +25,7 @@
 
   <url>
     <loc>http://www.rchute.com/</loc>
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -35,14 +35,14 @@
   
   <url>
     <loc>http://www.rchute.com/categories/technology/</loc>
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://www.rchute.com/categories/life/</loc>
-    <lastmod>2020-10-26</lastmod>
+    <lastmod>2020-10-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
